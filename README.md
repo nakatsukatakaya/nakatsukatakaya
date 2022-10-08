@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nakatsukatakaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-nakatsukatakaya/nakatsukatakaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 こんにちは！ コロナもロシア侵攻も続き良い事ないですね。
+2
+- 👀 けどそんな中このページを訪れた物好きさん来てくれてありがとうございます。
+3
+- 🌱 お酒が好きですがあまり自分からぐいぐい誘わないのでお誘いお待ちしてます。
+4
+- 💞️ 好きな居酒屋は焼き鳥系居酒屋と鮮魚系居酒屋です。
+5
+- 📫 魚は自分で捌いたりして好きな海鮮丼つくります。ビバ居酒屋！
